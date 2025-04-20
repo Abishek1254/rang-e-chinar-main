@@ -236,7 +236,7 @@ export const Workshop = [
     "End Time": "To Be Decided",
     "Day": "2",
     "Venue": "Amphitheatre (near activity centre)",
-    "Card Image" : "Sculpture making.png"
+    "Card Image" : "sculpture112.png"
   },
   {
     "Event Name": "Crochet",
@@ -249,7 +249,7 @@ export const Workshop = [
     "End Time": "To Be Decided",
     "Day": "1",
     "Venue": "LH",
-    "Card Image" : "crochet.png"
+    "Card Image" : "crochet(1).png"
   },
   {
     "Event Name": "Fabric Painting",
@@ -262,7 +262,7 @@ export const Workshop = [
     "End Time": "To Be Decided",
     "Day":"",
     "Venue": "LH",
-    "Card Image" : "Fabric Painting.png"
+    "Card Image" : "fabric (1)-1.png"
   },
   {
     "Event Name": "Tattoo Fashion (temporary)",
@@ -275,7 +275,7 @@ export const Workshop = [
     "End Time": "To Be Decided",
     "Day": "2",
     "Venue": "LH",
-    "Card Image" : "tattoo.png"
+    "Card Image" : "tattoo(1).png"
   }
 ];
 
