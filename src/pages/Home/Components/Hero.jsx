@@ -154,7 +154,7 @@ function Hero() {
             className="my-12 md:my-16 w-full flex justify-center"
           >
             <p className="text-2xl ss:text-5xl md:text-4xl font-serif font-normal text-white px-6 py-3 border-b border-pink-200/50">
-              The Rhythm Begins In...
+              The Rythm Begins In...
             </p>
           </div>
 
