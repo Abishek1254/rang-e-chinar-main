@@ -44,20 +44,14 @@ export default function WorkshopDetailsLayout({ data, index, breadcrumbs }) {
           </p>
         </div>
         <div className="flex gap-4">
-          <button className="px-6 md:px-8 py-2 ShadowBlur text-sm md:text-base rounded-md font-semibold text-gray-800 bg-primary border border-primary focus:outline-none text-center mb-4">
+          {/* <button className="px-6 md:px-8 py-2 ShadowBlur text-sm md:text-base rounded-md font-semibold text-gray-800 bg-primary border border-primary focus:outline-none text-center mb-4">
             <Link
               to={"https://rangechinar-registration-from.vercel.app/"}
             >
               Register
             </Link>
-          </button>
-          <button className="px-6 md:px-8 py-2 ShadowBlur text-sm md:text-base rounded-md font-semibold text-gray-800 bg-primary border border-primary focus:outline-none text-center mb-4">
-            <Link
-              to={"https://docs.google.com/document/d/153QMgBIilcQvmxG78jfg8YkGTFA_-NG0/edit?usp=sharing&ouid=110432715013503289843&rtpof=true&sd=true"}
-            >
-              Rule Book
-            </Link>
-          </button>
+          </button> */}
+         
         </div>
         <div className="mb-4">
           <p className="text-base mb-2">For Any Queries Contact</p>

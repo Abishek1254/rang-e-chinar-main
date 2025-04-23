@@ -180,7 +180,7 @@ function Hero() {
           </div>
 
           {/* Register Button */}
-          <div className="mt-12 py-6 flex justify-center">
+          {/* <div className="mt-12 py-6 flex justify-center">
             <button 
               data-aos="fade-up" 
               data-aos-delay="500"
@@ -189,7 +189,7 @@ function Hero() {
             >
               REGISTER NOW
             </button>
-          </div>
+          </div> */}
           <div className="mt-12 py-6 flex justify-center">
         <button 
           data-aos="fade-up" 

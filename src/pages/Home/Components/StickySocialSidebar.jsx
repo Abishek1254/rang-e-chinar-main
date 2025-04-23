@@ -45,7 +45,7 @@ const StickySocialSidebar = () => {
           </a>
         </li>
 
-         <a
+         {/* <a
         href="https://rangechinar-registration-from.vercel.app"
         target="_blank"
         rel="noopener noreferrer"
@@ -56,7 +56,7 @@ const StickySocialSidebar = () => {
           Register
         </span>
         <FaLeaf size={24} className="group-hover:scale-125 transition-transform duration-300" />
-      </a>
+      </a> */}
 
        
       </ul>

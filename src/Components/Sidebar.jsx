@@ -59,7 +59,7 @@ const Sidebar = ({ isOpen, onClose }) => {
           <p className="underline-animate relative inline-block">Register</p>
         </Link> */}
 
-                <a
+                {/* <a
         href="https://rangechinar-registration-from.vercel.app"
         target="_blank"
 
@@ -68,7 +68,7 @@ const Sidebar = ({ isOpen, onClose }) => {
       >
         Register
         <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-white/60 group-hover:w-full transition-all duration-300 group-hover:shadow-glow"></span>
-      </a>
+      </a> */}
 
         <Link
           to="/schedule"

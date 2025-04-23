@@ -63,7 +63,7 @@ const Header = () => {
             <NavLink to="/" label="Home" />
             <NavLink to="/events" label="Events" />
             <NavLink to="/schedule" label="Schedule" />
-            <a
+            {/* <a
   href="https://rangechinar-registration-from.vercel.app"
   target="_blank"
   rel="noopener noreferrer"
@@ -71,7 +71,7 @@ const Header = () => {
 >
   Register
   <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-white/60 group-hover:w-full transition-all duration-300 group-hover:shadow-glow"></span>
-</a>
+</a> */}
 
 
             {/* Resources Dropdown */}
