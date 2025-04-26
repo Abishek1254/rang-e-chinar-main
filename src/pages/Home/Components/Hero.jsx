@@ -5,7 +5,7 @@ import "aos/dist/aos.css";
 import Header from "../../../Components/Header";
 
 function Hero() {
-  const targetDate = new Date("2025-05-02T00:00:00");
+  const targetDate = new Date("2025-05-20T00:00:00");
 
   const calculateTimeLeft = () => {
     const difference = targetDate - new Date();
@@ -110,11 +110,11 @@ function Hero() {
             data-aos="fade-down" 
             className="inline-block px-8 py-3 rounded-full bg-pink-900/40 backdrop-blur-sm border border-pink-300/30 text-xl ss:text-2xl md:text-3xl font-cormorant text-white"
           >
-            <span>2</span>
+            <span>20</span>
+            <sup className="text-lg">th</sup>
+            <span className="mx-2">-</span>
+            <span>22</span>
             <sup className="text-lg">nd</sup>
-            <span className="mx-2">&</span>
-            <span>3</span>
-            <sup className="text-lg">rd</sup>
             <span className="ml-3">May 2025</span>
           </div>
 
