@@ -110,12 +110,13 @@ function Hero() {
             data-aos="fade-down" 
             className="inline-block px-8 py-3 rounded-full bg-pink-900/40 backdrop-blur-sm border border-pink-300/30 text-xl ss:text-2xl md:text-3xl font-cormorant text-white"
           >
-            <span>20</span>
+            {/* <span>20</span>
             <sup className="text-lg">th</sup>
             <span className="mx-2">-</span>
             <span>22</span>
-            <sup className="text-lg">nd</sup>
-            <span className="ml-3">May 2025</span>
+            <sup className="text-lg">nd</sup> */}
+            {/* <span className="ml-3">May 2025</span> */}
+            📅 <span>New Dates Will Be Announced Soon</span>
           </div>
 
           {/* "The Rhythm Begins In" section */}
@@ -159,7 +160,7 @@ function Hero() {
           </div>
 
           {/* Countdown Timer */}
-          <div className="mt-10 md:mt-16 flex justify-center">
+          {/* <div className="mt-10 md:mt-16 flex justify-center">
             <div className="w-full min-w-150 px-8 lg:px-32 flex flex-wrap gap-6 justify-center">
               {Object.entries(timeLeft).map(([unit, value], index) => (
                 <div 
@@ -176,7 +177,7 @@ function Hero() {
                   </div>
                 </div>
               ))}
-            </div>
+            </div> */}
           </div>
 
           {/* Register Button */}
@@ -191,8 +192,8 @@ function Hero() {
             </button>
           </div> */}
 
-           <div className="mt-12 py-6 flex justify-center">
-            <button 
+           {/* <div className="mt-12 py-6 flex justify-center">
+            {/* <button 
               data-aos="fade-up" 
               data-aos-delay="500"
               className="px-8 py-4 rounded-full text-lg md:text-xl font-medium bg-gradient-to-r from-green-600 to-green-500 hover:from-green-500 hover:to-green-400 border border-green-300/30 hover:border-green-300/60 hover:shadow-lg hover:shadow-green-500/30 transform hover:scale-105 transition-all duration-300 font-sans tracking-wider"
@@ -200,7 +201,7 @@ function Hero() {
             >
               REGISTRATIONS WILL OPEN SOON 
             </button>
-          </div>
+          </div> */}
           <div className="mt-12 py-6 flex justify-center">
         <button 
           data-aos="fade-up" 
@@ -213,7 +214,7 @@ function Hero() {
       </div>
         </div>
       </div>
-    </div>
+    // </div>
   );
 }
 

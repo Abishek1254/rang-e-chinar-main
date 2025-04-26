@@ -28,8 +28,8 @@ export default function Register() {
         </p>
 
         <p className="text-base md:text-lg lg:text-xl font-medium mb-4 text-yellow-300">
-          📅 <span className="text-white/90">The new dates for the fest have been announced:</span><br />
-          <span className="font-bold text-yellow-300 text-xl">May 20–22, 2025</span>
+          📅 <span className="text-white/90">The new dates for the fest will be announced soon.</span><br />
+          {/* <span className="font-bold text-yellow-300 text-xl">May 20–22, 2025</span> */}
         </p>
 
         <p className="text-base md:text-lg lg:text-xl max-w-3xl text-white/90">
