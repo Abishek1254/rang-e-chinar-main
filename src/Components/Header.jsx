@@ -63,6 +63,8 @@ const Header = () => {
             <NavLink to="/" label="Home" />
             <NavLink to="/events" label="Events" />
             <NavLink to="/schedule" label="Schedule" />
+            <NavLink to="/register" label="Register" />
+
             {/* <a
   href="https://rangechinar-registration-from.vercel.app"
   target="_blank"

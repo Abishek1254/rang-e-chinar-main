@@ -190,6 +190,17 @@ function Hero() {
               REGISTER NOW
             </button>
           </div> */}
+
+           <div className="mt-12 py-6 flex justify-center">
+            <button 
+              data-aos="fade-up" 
+              data-aos-delay="500"
+              className="px-8 py-4 rounded-full text-lg md:text-xl font-medium bg-gradient-to-r from-green-600 to-green-500 hover:from-green-500 hover:to-green-400 border border-green-300/30 hover:border-green-300/60 hover:shadow-lg hover:shadow-green-500/30 transform hover:scale-105 transition-all duration-300 font-sans tracking-wider"
+              // onClick={() => window.open("", "_blank")}
+            >
+              REGISTRATIONS WILL OPEN SOON 
+            </button>
+          </div>
           <div className="mt-12 py-6 flex justify-center">
         <button 
           data-aos="fade-up" 

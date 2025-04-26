@@ -69,13 +69,21 @@ const Sidebar = ({ isOpen, onClose }) => {
         Register
         <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-white/60 group-hover:w-full transition-all duration-300 group-hover:shadow-glow"></span>
       </a> */}
-
-        <Link
+      <Link
           to="/schedule"
           className="text-gray-200 hover:text-secondary flex justify-center text-xl py-2"
           onClick={onClose}
         >
           <p className="underline-animate relative inline-block">Schedule</p>
+        </Link>
+      
+
+        <Link
+          to="/register"
+          className="text-gray-200 hover:text-secondary flex justify-center text-xl py-2"
+          onClick={onClose}
+        >
+          <p className="underline-animate relative inline-block">Register</p>
         </Link>
 
         <div className="py-2 flex justify-center">
